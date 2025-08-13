@@ -1,4 +1,4 @@
-# School 21. Matrix
+# Matrix
 
 Implementation of the library for working with matrices in the C programming language.
 
